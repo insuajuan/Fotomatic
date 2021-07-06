@@ -1,2 +1,2 @@
 # Fotomatic exercise
-Implementing flexbox and responsive design
+Codecademy project to implement flexbox and responsive design
